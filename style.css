@@ -1,0 +1,37 @@
+.biscuit{
+    background-color: #fe675d;
+    width: 40vw;
+    height: 100vh;
+    float: right;
+    padding: 15px;
+    /* background-image: url(../drive/images/img2.png); */
+   
+    
+    
+
+
+}
+
+.list{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    text-align: right;
+    text-decoration: underline;
+
+    
+}
+
+
+.container{
+    display: flex;
+    justify-content: space-between;
+
+    
+
+}
+
+
+.biscuita{
+    
+}
